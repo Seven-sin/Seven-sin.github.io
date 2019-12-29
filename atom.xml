@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://seven-sin.github.io/"/>
-  <updated>2019-12-27T22:09:16.696Z</updated>
+  <updated>2019-12-29T02:28:16.407Z</updated>
   <id>https://seven-sin.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Newstart</title>
+    <link href="https://seven-sin.github.io/2019/12/29/New-start/"/>
+    <id>https://seven-sin.github.io/2019/12/29/New-start/</id>
+    <published>2019-12-28T16:00:00.000Z</published>
+    <updated>2019-12-29T02:28:16.407Z</updated>
+    
+    <content type="html"><![CDATA[<p>用了些气力，把blog搭好了。以后就把这当家了，写写碎语闲言，或题解，或摘记。就这样吧！</p><p>第一个blog的第一篇文章就这样结束吧。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;用了些气力，把blog搭好了。以后就把这当家了，写写碎语闲言，或题解，或摘记。就这样吧！&lt;/p&gt;
+&lt;p&gt;第一个blog的第一篇文章就这样结束吧。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
